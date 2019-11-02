@@ -1,5 +1,5 @@
 # cli-visualizer_pywal
-<h3 align="center"><img src="https://imgur.com/a/RK00a33" width="200px"></h3>
+<h3 align="center"><img src="https://i.imgur.com/RztkdOT.gifv" width="200px"></h3>
 <p align="center">🎨🎼 - autogen color scheme from pywal for cli-visualizer </p>
 
 ## Installation
