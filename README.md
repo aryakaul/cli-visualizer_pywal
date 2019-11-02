@@ -10,8 +10,8 @@ If `~/.local/bin` is not in your path already, add it with:
 Now run `vis`!
 
 ## Dependencies
-- vis
-- pywal
+- [vis][https://github.com/dpayne/cli-visualizer]
+- [pywal][https://github.com/dpayne/cli-visualizer]
 - awk
 - bc
 - sed
