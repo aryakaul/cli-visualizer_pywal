@@ -5,7 +5,7 @@
 ## Installation
 Clone and run `bash install.sh` 
 If `~/.local/bin` is not in your path already, add it with:
-`export PATH="$BINPATH:\$PATH"`
+`export PATH="~/.local/bin:\$PATH"`
 
 Now run `vis`!
 
